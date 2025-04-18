@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">WeDrive</string>
+  <string name="wallet">Wallet</string>
+  <string name="home_search">Search</string>
+  <string name="home_balance">Balance</string>
+  <string name="identification_required">Identification required</string>
+  <string name="promo_code">Add Promo code</string>
+  <string name="cash">Cash</string>
+  <string name="card">Card</string>
+  <string name="add_new_card">Add new card</string>
+  <string name="add_card">Add Card</string>
+  <string name="save">Save</string>
+</resources>
